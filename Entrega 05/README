@@ -14,9 +14,9 @@ Aplicativo Android feito em Java para simular um pedido de pizza com seleção d
 
 Funcionamento
 
-- Tela 1:** Logomarca + botão "Iniciar Pedido"
-- Tela 2:** Seleção dos sabores da pizza usando CheckBox
-- Tela 3:** Escolha do tamanho da pizza e pagamento com RadioButtons + resumo com valor final
+- Tela 1: Logomarca + botão "Iniciar Pedido"
+- Tela 2: Seleção dos sabores da pizza usando CheckBox
+- Tela 3: Escolha do tamanho da pizza e pagamento com RadioButtons + resumo com valor final
 
 ---
 
