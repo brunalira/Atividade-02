@@ -1,17 +1,17 @@
-## Desenvolvido por
+Desenvolvido por
 
-Bruna Cristina Lira Curralo
+Bruna Cristna Lira Curralo
 RA: 24025837
 3º Semestre – ADS  
 Professor: Vinicius Heltai
 
-# Reajuste Salarial
+Reajuste Salarial
 
-Aplicativo Android feito em Java que calcula o novo salário de um funcionário com base em um percentual de aumento escolhido pelo usuário.
+Aplicativo Android fito em Java que calcula o novo salário de um funcionário com base em um percentual de aumento escolhido pelo usuário.
 
 ---
 
-## Como funciona
+Como funciona
 
 - O usuário informa seu salário
 - Escolhe um percentual de aumento (40%, 45% ou 50%)
@@ -19,7 +19,7 @@ Aplicativo Android feito em Java que calcula o novo salário de um funcionário 
 
 ---
 
-## Componentes utilizados
+Componentes utiliados
 
 - EditText
 - RadioGroup com RadioButtons
@@ -27,7 +27,5 @@ Aplicativo Android feito em Java que calcula o novo salário de um funcionário 
 - TextView
 - Toast para validação
 - Java + XML
-
----
 
 
