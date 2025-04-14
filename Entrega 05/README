@@ -1,4 +1,4 @@
-## Desenvolvido por
+Desenvolvido por:
 
 Bruna Cristina Lira Curralo
 RA: 24025837
@@ -6,21 +6,21 @@ RA: 24025837
 Professor: Vinicius Heltai
 
 
-# Pizzaria
+Pizzaria
 
 Aplicativo Android feito em Java para simular um pedido de pizza com seleção de sabores, tamanho e forma de pagamento.
 
 ---
 
-## Funcionamento
+Funcionamento
 
-- **Tela 1:** Logomarca + botão "Iniciar Pedido"
-- **Tela 2:** Seleção dos sabores da pizza usando CheckBox
-- **Tela 3:** Escolha do tamanho da pizza e pagamento com RadioButtons + resumo com valor final
+- Tela 1:** Logomarca + botão "Iniciar Pedido"
+- Tela 2:** Seleção dos sabores da pizza usando CheckBox
+- Tela 3:** Escolha do tamanho da pizza e pagamento com RadioButtons + resumo com valor final
 
 ---
 
-## Componentes usados
+Componentes usados
 
 - 3 Activities
 - CheckBox, RadioGroup, RadioButton
