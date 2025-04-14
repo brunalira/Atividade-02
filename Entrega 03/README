@@ -1,0 +1,34 @@
+## Desenvolvido por
+
+Bruna Cristina Lira Curralo
+RA: 24025837
+3º Semestre – ADS  
+Professor: Vinicius Heltai
+
+
+# Tem de Tudo
+
+Aplicativo Android feito em Java que simula um cadastro simples de cliente para uma loja online fictícia.
+
+---
+
+## Funcionamento
+
+- Primeira tela: Boas-vindas com logotipo e botão "Cadastrar Cliente"
+- Segunda tela: Campo para digitar o nome (TextInputLayout) + imagem
+- Terceira tela: Mensagem de boas-vindas personalizada com o nome digitado
+
+---
+
+## Componentes usados
+
+- 3 Activities
+- TextInputLayout
+- Intent e Bundle
+- Button, ImageView, TextView
+- Java + XML
+- strings.xml e colors.xml para organização dos textos e cores
+
+---
+
+
