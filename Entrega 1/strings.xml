@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="titulo">Selecione os produtos:</string>
+    <string name="produto_arroz">Arroz 1kg (R$ 2,69)</string>
+    <string name="produto_leite">Leite longa vida (R$ 2,70)</string>
+    <string name="produto_carne">Carne Friboi (R$ 16,70)</string>
+    <string name="produto_feijao">Feijão carioquinha 1kg (R$ 3,38)</string>
+    <string name="produto_coca">Refrigerante Coca-Cola 2L (R$ 3,00)</string>
+    <string name="btn_calcular">Calcular Total</string>
+    <string name="resultado_total">Total: R$</string>
+
+</resources>
