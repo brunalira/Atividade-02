@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reajuste Salarial</string>
+    <string name="titulo">Informe seu salário:</string>
+    <string name="radio_40">Aumento de 40%</string>
+    <string name="radio_45">Aumento de 45%</string>
+    <string name="radio_50">Aumento de 50%</string>
+    <string name="btn_calcular">Calcular novo salário</string>
+    <string name="resultado">Novo salário: R$</string>
+    <string name="erro">Preencha o salário!</string>
+</resources>
