@@ -1,4 +1,4 @@
-## Desenvolvido por
+Desenvolvido por
 
 Bruna Cristina LIra Curralo
 RA: 24025837
@@ -6,21 +6,21 @@ RA: 24025837
 Professor: Vinicius Heltai
 
 
-# Lanche Fácil
+Lanche Fácil
 
 Aplicativo Android desenvolvido em Java que simula o registro de pedidos em eventos ou lanchonetes.
 
 ---
 
-## Funcionamento
+Funcionamento
 
-- **Tela 1:** Logomarca + botão "Fazer Pedido"
-- **Tela 2:** Campo para digitar o nome e o lanche desejado
-- **Tela 3:** Exibe o resumo do pedido com nome e lanche escolhido
+- Tela 1: Logomarca + botão "Fazer Pedido"
+- Tela 2: Campo para digitar o nome e o lanche desejado
+- Tela 3: Exibe o resumo do pedido com nome e lanche escolhido
 
 ---
 
-## Componentes usados
+Componentes usados
 
 - 3 Activities
 - TextInputLayout
@@ -29,6 +29,5 @@ Aplicativo Android desenvolvido em Java que simula o registro de pedidos em even
 - Imagens, Botões e TextViews
 - Organização com strings.xml e colors.xml
 
----
 
 
